@@ -1,5 +1,5 @@
 # Enterprise AI Governance Framework — Northstar Financial Services
-<img width="1100" height="480" alt="banner (2)" src="https://github.com/user-attachments/assets/06df614f-67e0-4d4d-9c18-73aa64cfa8b7" />
+<img width="1100" height="480" alt="banner (2)" src="https://github.com/user-attachments/assets/450a0521-1373-4006-8705-6771dbc6a2f4" />
 
 
 This project demonstrating a complete, operational **AI Management System (AIMS)** for a financial services enterprise — policy, governance structure, roles, RACI, lifecycle, risk classification, approval workflow, incident escalation, monitoring, and retirement — aligned with the NIST AI RMF, ISO/IEC 42001, and ISO/IEC 27001.
